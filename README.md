@@ -1,7 +1,7 @@
 ```
 <http://ex.org/Pluto> <http://ex.org/type> <http://ex.org/Dog>
 <http://ex.org/Mickey> <http://ex.org/name> "Lorem ipsum"@nl
-);
+
 ```
 
 ```
